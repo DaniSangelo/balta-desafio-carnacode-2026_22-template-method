@@ -1,4 +1,4 @@
-![CR-3](https://github.com/user-attachments/assets/485b7ff1-c098-40bf-93b4-00058c8729a9)
+![CO-10](https://github.com/user-attachments/assets/eea2ce0f-6542-432a-8319-6c6dd2d9cdb8)
 
 ## 🥁 CarnaCode 2026 - Desafio 22 - Template Method
 
